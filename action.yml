@@ -1,5 +1,8 @@
 name: 'PR Review Stats'
 description: '取得 PR 的 Reviewer 數量與審核狀態'
+branding:
+  icon: 'user-check'
+  color: 'blue'
 inputs:
   github-token:
     description: 'GitHub Token'
